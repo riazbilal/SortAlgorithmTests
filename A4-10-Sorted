@@ -1,0 +1,43 @@
+Last login: Mon Apr 13 23:03:15 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Bilals-MacBook-Pro:~ bilalriaz$ cd desktop
+Bilals-MacBook-Pro:desktop bilalriaz$ javac Assig4.java
+Note: Assig4.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Bilals-MacBook-Pro:desktop bilalriaz$ java -Xss50M Assig4 10000 20 true
+Initialization Information:
+	Array Size: 10000
+	Number of runs per test: 20
+	Initial Data: Sorted
+
+Algorithm: Simple Pivot Quicksort
+Simple Pivot QuickSort Best Case: 0.005971978 sec
+Simple Pivot QuickSort Worst Case: 0.05357628845 sec
+
+Algorithm: Med of Three Quicksort
+Med of Three QuickSort Best Case: 0.053750804799999996 sec
+Med of Three QuickSort Worst Case: 0.0545358635 sec
+
+Algorithm: Random Pivot Quicksort
+Random Pivot QuickSort Best Case: 0.0547074626 sec
+Random Pivot QuickSort Worst Case: 0.05560128735 sec
+
+Algorithm: Merge Sort
+Merge Sort Best Case: 0.0556690278 sec
+Merge Sort Worst Case: 0.05600497525 sec
+
+Algorithm: Riaz Sort
+Riaz Sort Best Case: 0.062422965649999995 sec
+Riaz Sort Worst Case: 0.11178325665000001 sec
+
+Best Case Overall: 
+Algorithm: Simple Pivot Quicksort 
+0.005971978 sec
+
+Worst Case Overall: 
+Algorithm: Riaz Sort 
+0.11178325665000001 sec
+Bilals-MacBook-Pro:desktop bilalriaz$ 

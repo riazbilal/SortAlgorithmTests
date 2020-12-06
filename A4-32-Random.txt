@@ -1,0 +1,34 @@
+Bilals-MacBook-Pro:desktop bilalriaz$ java -Xss50M Assig4 32000 20 false
+Initialization Information:
+	 Array Size: 32000
+	 Number of runs per test: 20
+	 Initial Data: Random
+
+Algorithm: Simple Pivot Quicksort
+Simple Pivot QuickSort Best Case: 9.053476E-4 sec
+Simple Pivot QuickSort Worst Case: 0.84505466595 sec
+
+Algorithm: Med of Three Quicksort
+Med of Three QuickSort Best Case: 0.8461433551 sec
+Med of Three QuickSort Worst Case: 0.8494754341 sec
+
+Algorithm: Random Pivot Quicksort
+Random Pivot QuickSort Best Case: 0.85049383695 sec
+Random Pivot QuickSort Worst Case: 0.8552760262000001 sec
+
+Algorithm: Merge Sort
+Merge Sort Best Case: 0.85652364325 sec
+Merge Sort Worst Case: 0.85746032625 sec
+
+Algorithm: Riaz Sort
+Riaz Sort Best Case: 0.9696409118 sec
+Riaz Sort Worst Case: 3.1026166365 sec
+
+Best Case Overall: 
+Algorithm: Simple Pivot Quicksort 
+9.053476E-4 sec
+
+Worst Case Overall: 
+Algorithm: Riaz Sort 
+3.1026166365 sec
+Bilals-MacBook-Pro:desktop bilalriaz$ 
